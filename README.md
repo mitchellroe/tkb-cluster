@@ -1,8 +1,9 @@
 # The Kubernetes Book test infrastructure
 
-This repo is meant as a companion to _The Kubernetes Book_ by Nigel Poulton. It
-configures a simple three-node Kubernetes cluster in Linode for testing the
-examples in the book.
+This repo is meant as a companion to [_The Kubernetes
+Book_](https://github.com/nigelpoulton/tkb) by Nigel Poulton. It configures a
+simple three-node Kubernetes cluster in Linode for testing the examples in the
+book.
 
 ## General details
 
